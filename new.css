@@ -1,0 +1,45 @@
+
+    body {
+        background-image: url('https://www.wallpapers13.com/wp-content/uploads/2019/08/Indonesia-Banyak-Islands-Sumatra-tropical-desert-beach-Sunset-sky-sea-palm-trees-photo-landscape-4K-Ultra-HD-Wallpaper-for-Desktop-Laptop.jpg');
+        background-size: cover;
+    }
+
+    h1 {
+        background-color: white;
+        text-align: center;
+    }
+
+    fieldset {
+        border-color: rgb(243, 115, 10);
+        border-width: 1ch;
+        margin: 5%;
+
+
+
+    }
+
+    h4 {
+        color: rgb(23, 38, 51);
+        font-size: larger;
+    }
+
+    .i {
+        margin: 10px;
+        padding: 10px;
+    }
+
+    div {
+        text-align: center;
+    }
+
+    a {
+        color: rgb(16, 245, 226);
+    }
+    a:hover{
+        background-color: aquamarine;
+        color:black;
+        font-size: larger;
+    }
+    a:visited{
+        color:violet;
+    }
